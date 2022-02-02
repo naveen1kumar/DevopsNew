@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TCWorkspace xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WorkspaceRepository>
+    <RepoClass>SQLiteRepository</RepoClass>
+    <DatabasePathAndName>.\Repository\Naveen Tosca Demo.db</DatabasePathAndName>
+    <Database>C:\Tosca_Projects\Tosca_Workspaces\Naveen Tosca Demo\Repository\Naveen Tosca Demo.db</Database>
+    <DatabaseUser />
+    <DatabasePwd />
+    <DatabaseSchema />
+  </WorkspaceRepository>
+  <CommonRepository>
+    <RepoClass>null</RepoClass>
+  </CommonRepository>
+  <DefaultUser>
+    <UserName>Admin</UserName>
+    <UserSurrogate>3a00f2ea-8f9c-4d36-18ac-62b16ebeb482</UserSurrogate>
+  </DefaultUser>
+  <TCWorkspaceID>db2c1350-deb7-4557-8ed7-926c95434a7e</TCWorkspaceID>
+  <TCCommonRepositoryID />
+  <TCWorkspaceDescription />
+</TCWorkspace>
